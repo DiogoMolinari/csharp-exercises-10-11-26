@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Ex1Multiplication/Ex1Multiplication.csproj" Id="d450a02e-a7f2-4a34-9a5d-30f9dbf013b0" />
+  <Project Path="Ex2Fibonacci/Ex2Fibonacci.csproj" Id="d9f807c4-8df1-4f6a-8ba8-34ee1b2ee537" />
+  <Project Path="Ex3EvenOddAccountant/Ex3EvenOddAccountant.csproj" Id="fc5dd18b-bd83-47c7-9567-c0456b3981b7" />
+  <Project Path="Ex4PrimeNumbers/Ex4PrimeNumbers.csproj" Id="4e84ca6d-7d4c-46dc-b01a-b8a038b3d838" />
+  <Project Path="Ex5Factorial/Ex5Factorial.csproj" Id="c35aac78-7de5-4e9f-a192-9966876aa93b" />
+  <Project Path="loops/loops.csproj" />
+</Solution>
